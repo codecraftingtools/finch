@@ -18,7 +18,7 @@ can be found on `GitHub`_.
 .. _Smidgen: https://www.codecraftsmen.org/software.html#smidgen
 .. _Finch: https://www.codecraftsmen.org/software.html#finch
 .. _Code Craftsmen: https://www.codecraftsmen.org
-.. _documentation: https://finch.readthedocs.io
+.. _documentation: https://finch-doc.readthedocs.io
 .. _Read the Docs: https://www.codecraftsmen.org/foundation.html#read-the-docs
 .. _source code: https://github.com/codecraftingtools/finch
 .. _GitHub: https://www.codecraftsmen.org/foundation.html#github
